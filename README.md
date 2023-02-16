@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm VENKATA BHANU PRAKASH CHITLURU</h1>
 <h3 align="center">A passionate frontend developer, fast-learner.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fboy_gif&psig=AOvVaw270asD46AkwQQzv4X13xya&ust=1676655643189000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjgxZLLmv0CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👨‍💻 All of my projects are available at [https://cvbhanuprakash.github.io/portfolio/](https://cvbhanuprakash.github.io/portfolio/)
 
-- 📫 How to reach me **chitlurubhanuprakash03@gmail.com**
+- 📫 How to reach me **bhanuprakash.c20@iiits.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
