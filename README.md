@@ -7,7 +7,7 @@ I am looking for an oppurtunity to enhance my skills .
  -->
 - 👨‍💻 All of my projects are available at [https://cvbhanuprakash.github.io/portfolio/](https://cvbhanuprakash.github.io/portfolio/)
 
-- 📫 How to reach me **bhanuprakash.c20@iiits.in**
+- 📫 Contact me **bhanuprakash.c20@iiits.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
