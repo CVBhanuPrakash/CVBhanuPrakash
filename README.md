@@ -5,10 +5,15 @@ I am looking for an oppurtunity to enhance my skills .
 <!-- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhanu_rockzz8418) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu-prakash-0758a2227) 
  -->
+- 👨‍💻 All of my projects are available at [https://cvbhanuprakash.github.io/portfolio/](https://cvbhanuprakash.github.io/portfolio/)
+
+- 📫 How to reach me **bhanuprakash.c20@iiits.in**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhanu-prakash-0758a2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanu-prakash-0758a2227" height="30" width="40" /></a>
 <a href="https://instagram.com/bhanu_rockzz8418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanu_rockzz8418" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/bhanu-8418/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhanu-8418/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chitlurubhanuprakash03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chitlurubhanuprakash03" height="30" width="40" /></a>
 </p>
 
