@@ -4,9 +4,9 @@ I am looking for an oppurtunity to enhance my skills .
 
 <!-- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhanu_rockzz8418) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu-prakash-0758a2227) 
- -->
+ 
 - 👨‍💻 My portfolio website: [https://cvbhanuprakash.github.io/portfolio/](https://cvbhanuprakash.github.io/portfolio/)
-
+-->
 - 📫 Contact me **bhanuprakash.c20@iiits.in**
 
 <h3 align="left">Connect with me:</h3>
