@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm C.V.BHANU PRAKASH</h1>
-<h3 align="center">A passionate frontend developer, fast-learner.</h3>
+<h3 align="center">I am currently in my 3rd year pursuing a bachelor's of technology in ECE from IIIT Sri City. </h3>
 
-- 👨‍💻 All of my projects are available at [https://cvbhanuprakash.github.io/portfolio/](https://cvbhanuprakash.github.io/portfolio/)
-
-- 📫 How to reach me **bhanuprakash.c20@iiits.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
