@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHITLURU VENKATA BHANU PRAKASH</h1>
-<h3 align="center">A passionate frontend developer, fast-learner and Tech-enthusiast.</h3>
+<h3 align="center">fast-learner and Tech-enthusiast.</h3>
 
 - 🔭 I’m currently working on **Automated remote monitoring cultivation.**
 
