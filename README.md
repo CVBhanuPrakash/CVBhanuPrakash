@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CVBhanuPrakash](https://github.com/CVBhanuPrakash)
 
-- 📫 How to reach me **bhanuprakash.c20@iiits.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_DhY2IotCwOFm9mcKTqUEIddYLXX97Oz/view?usp=share_link](https://drive.google.com/file/d/1_DhY2IotCwOFm9mcKTqUEIddYLXX97Oz/view?usp=share_link)
+- 📫 How to reach me **chitlurubhanuprakash03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
