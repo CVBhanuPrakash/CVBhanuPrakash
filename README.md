@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHITLURU VENKATA BHANU PRAKASH</h1>
+<h1 align="center">Hi 👋, I'm C.V.BHANU PRAKASH</h1>
 <h3 align="center">A passionate frontend developer, Quick-learner and Tech-enthusiast.</h3>
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
