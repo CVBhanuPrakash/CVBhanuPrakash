@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Automated remote monitoring cultivation.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CVBhanuPrakash](https://github.com/CVBhanuPrakash)
+- 👨‍💻 All of my projects are available at my [Repositories](https://github.com/CVBhanuPrakash?tab=repositories)
 
 - 📫 How to reach me **chitlurubhanuprakash03@gmail.com**
 
-- 📄 Know about me more [portfolio](https://bhanu.social)
+- 📄 Know more about me [portfolio](https://bhanu.social)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
