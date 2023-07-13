@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chitlurubhanuprakash03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_DhY2IotCwOFm9mcKTqUEIddYLXX97Oz/view?usp=share_link](https://drive.google.com/file/d/1_DhY2IotCwOFm9mcKTqUEIddYLXX97Oz/view?usp=share_link)
+- 📄 Know about me more [portfolio](https://bhanu.social)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
