@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHITLURU VENKATA BHANU PRAKASH</h1>
-<h3 align="center">A passionate frontend developer, Quick-learner and Tech-enthusiast.</h3>
+<h3 align="center">An Aspiring Software Developer, Quick-learner and Tech-enthusiast.</h3>
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on **Automated remote monitoring cultivation.**
