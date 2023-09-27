@@ -1,5 +1,10 @@
+<h1 align="center">Welcome to My GitHub Profile</h1>
+
 <h1 align="center">Hi 👋, I'm CHITLURU VENKATA BHANU PRAKASH</h1>
+
 <h3 align="center">An Aspiring Software Developer, Quick-learner and Tech-enthusiast.</h3>
+<br><br>
+
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on **AgritechGuard B.Tech Project.**
@@ -10,7 +15,7 @@
 
 - 📄 Know more about me [portfolio](https://bhanu.social)
 
-<h3 align="left">Social and Contact:</h3>
+<h3 align="left">Social Profiles:</h3>
 <p align="left">
 <a href="//www.linkedin.com/in/cvbhanuprakash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cvbhanuprakash/" height="30" width="40" /></a>
 <a href="https://instagram.com/cvbhanuprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cvbhanuprakash" height="30" width="40" /></a>
