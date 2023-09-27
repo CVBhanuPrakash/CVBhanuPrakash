@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Software Developer, Quick-learner and Tech-enthusiast.</h3>
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🔭 I’m currently working on **Automated remote monitoring cultivation.**
+- 🔭 I’m currently working on **AgritechGuard B.Tech Project.**
 
 - 👨‍💻 All of my projects are available at my [Repositories](https://github.com/CVBhanuPrakash?tab=repositories)
 
