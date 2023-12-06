@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
-<h1 align="center">Hi 👋, I'm CHITLURU VENKATA BHANU PRAKASH</h1>
+<h1 align="center">Hi 👋, I'm Chitluru Venkata Bhanu Prakash</h1>
 
 <h3 align="center">An Aspiring Software Engineer, Quick-learner and Tech-enthusiast.</h3>
 <br><br>
 
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🔭 I’m currently working on **AgritechGuard B.Tech Project.**
+- 🔭 I’m currently working on project **AgritechGuard**
 
 - 👨‍💻 All of my projects are available at my [Repositories](https://github.com/CVBhanuPrakash?tab=repositories)
 
