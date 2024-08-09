@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chitlurubhanuprakash03@gmail.com**
 
-- 📄 Know more about me [portfolio](https://bhanu.social)
+- 📄 Know more about me [portfolio](https://cvbhanuprakash.github.io/portfolio)
 
 <h3 align="left">Social Profiles:</h3>
 <p align="left">
